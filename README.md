@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in VBScript related to the handling of empty arrays and the `IsEmpty` function.  The `IsEmpty` function does not correctly identify empty arrays as empty, leading to unexpected behavior.  The `bug.vbs` file showcases the issue, while `bugSolution.vbs` provides a corrected version.
